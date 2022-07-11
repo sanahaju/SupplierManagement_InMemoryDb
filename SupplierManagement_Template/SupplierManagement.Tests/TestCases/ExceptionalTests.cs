@@ -33,7 +33,7 @@ namespace SupplierManagement.Tests.TestCases
         private readonly SupplierViewModel _supplierViewModel;
         private readonly ProductViewModel _productViewModel;
 
-        private static string type = "Exceptional";
+        private static string type = "Exception";
 
         public ExceptionalTests(ITestOutputHelper output)
         {
