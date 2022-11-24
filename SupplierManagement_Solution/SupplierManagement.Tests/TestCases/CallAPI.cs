@@ -8,18 +8,6 @@ using static SupplierManagement.Tests.TestCases.TestCaseDto;
 
 namespace SupplierManagement.Tests.TestCases
 {
-    public class CallAPI
-    {
-       using Newtonsoft.Json;
-using System;
-using System.IO;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-
-namespace Online_Auction.TestCases
-    {
         public class CallAPI
         {
             public static string UniqueGuid = "18f69543-da90-412c-8a01-4825f31340bb";
